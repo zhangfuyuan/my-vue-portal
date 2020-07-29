@@ -53,7 +53,7 @@ export default {
   methods: {
     ajaxSources() {
       axios
-        .get(`/static/data/home.json?t=${Date.now()}`)
+        .get(`/static/data/case.json?t=${Date.now()}`)
         .then(res => {
           const { data } = res || {};
           const { videoList } = data.zh || {}; // TODO 可国际化

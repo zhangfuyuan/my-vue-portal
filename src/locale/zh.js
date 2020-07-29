@@ -1,9 +1,11 @@
 export default {
   common: {
     noData: '暂无数据',
+    requestFailed: '请求失败',
   },
   header: {
-
+    course: '视频教程',
+    case: '视频案例',
   },
   main: {
     apm: '信发系统',

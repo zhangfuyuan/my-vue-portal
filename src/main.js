@@ -16,6 +16,7 @@ import VueLazyload from 'vue-lazyload'
 
 Vue.config.productionTip = false
 Vue.prototype.$http = axios
+Vue.prototype.$serverIp = 'http://lango-tech.cn'
 
 Vue.use(VueI18n)
 const i18n = new VueI18n({

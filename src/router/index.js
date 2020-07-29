@@ -9,6 +9,7 @@ import Router from 'vue-router'
 // import bbs from '@/components/bbs/Bbs'
 // import langoMain from '@/components/lango/Main'
 import langoMainHome from '@/components/lango/MainHome'
+import langoMainCase from '@/components/lango/MainCase'
 import langoMainView from '@/components/lango/MainView'
 
 Vue.use(Router)
@@ -17,7 +18,7 @@ export default new Router({
   //  mode: "history",
   routes: [{
       path: '/',
-      name: 'home',
+      name: 'index',
       component: langoMainHome
     },
     // {
@@ -30,6 +31,16 @@ export default new Router({
     //   name: 'guard',
     //   component: langoMain
     // },
+    {
+      path: '/home',
+      name: 'home',
+      component: langoMainHome
+    },
+    {
+      path: '/case',
+      name: 'case',
+      component: langoMainCase
+    },
     {
       path: '/view',
       name: 'view',

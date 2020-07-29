@@ -1,0 +1,20 @@
+{
+  "zh": {
+    "videoList": [{
+      "order": 0,
+      "name": "跳转APP的广告案例",
+      "des": "本案例展示了，可通过点击图片或者视频实现跳转至第三方APP应用界面",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/52dc7cf8ee10388ff6b2e2b947369a9c.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/52dc7cf8ee10388ff6b2e2b947369a9c.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 1,
+      "name": "图片或视频Banner模式的广告案例",
+      "des": "本案例展示了，图片或视频可自动或触摸切换轮播，图片还可以点击全屏且双指缩放",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/ac443574d47bc3882ca0ddb29f6d163b.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/ac443574d47bc3882ca0ddb29f6d163b.mp4",
+      "type": "video/mp4"
+    }]
+  },
+  "en": {}
+}

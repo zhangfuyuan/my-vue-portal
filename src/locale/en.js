@@ -1,14 +1,16 @@
 export default {
   common: {
     noData: 'No data',
+    requestFailed: 'Request failed',
   },
   header: {
-
+    course: 'Video course',
+    case: 'Video case',
   },
   main: {
     apm: 'APM',
     guard: 'Intelligent Device Control System',
-    videoTutorial: 'Video tutorial',
+    videoTutorial: 'Video course',
     clickView: 'Click to view',
     account: 'Account',
     enterAccount: 'Please enter the account',

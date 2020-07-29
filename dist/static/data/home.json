@@ -2,94 +2,241 @@
   "zh": {
     "videoList": [{
       "order": 0,
-      "name": "f1b3264980a48edeed4a9bec6b1cc960.mp4",
-      "des": "asdasdsadasdasd",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/f1b3264980a48edeed4a9bec6b1cc960.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/f1b3264980a48edeed4a9bec6b1cc960.mp4",
+      "name": "更新授权点数后如何查看点数变化",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/6b43b3fc55c6ef61d7fa8c5563a9e8f8.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/6b43b3fc55c6ef61d7fa8c5563a9e8f8.mp4",
       "type": "video/mp4"
     }, {
       "order": 1,
-      "name": "百视传媒~1",
+      "name": "后台四种节目播放类型区分",
       "des": "",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/442633b46315ae42096f4ccedd77e4d6.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/442633b46315ae42096f4ccedd77e4d6.mp4",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/0340a5de28e0c0e0ae64c652fa29695b.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/0340a5de28e0c0e0ae64c652fa29695b.mp4",
       "type": "video/mp4"
     }, {
       "order": 2,
-      "name": "百视传媒~1",
+      "name": "朗国商显方案常用固件升级方式",
       "des": "",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/442633b46315ae42096f4ccedd77e4d6.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/442633b46315ae42096f4ccedd77e4d6.mp4",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/e4dd1b08a0a44be335361478fd24fb6d.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/e4dd1b08a0a44be335361478fd24fb6d.mp4",
       "type": "video/mp4"
     }, {
       "order": 3,
-      "name": "9e783157f7a1616e0cecbf00ec126222",
+      "name": "两种单机播放的方式",
       "des": "",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/77a73ea04407ba111e0048584ae9d557.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/77a73ea04407ba111e0048584ae9d557.mp4",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/4e8d99b729f42722d9ba23decbe2ce98.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/4e8d99b729f42722d9ba23decbe2ce98.mp4",
       "type": "video/mp4"
     }, {
       "order": 4,
-      "name": "片头",
+      "name": "如何搭建服务器及认证（适用于外网服务器）",
       "des": "",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/2c80c5ac4240518c217dcba78f21908a.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/2c80c5ac4240518c217dcba78f21908a.mp4",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/e832c6c9a1e0bd7a9c72c3571d573d3a.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/e832c6c9a1e0bd7a9c72c3571d573d3a.mp4",
       "type": "video/mp4"
     }, {
       "order": 5,
-      "name": "产品领域",
+      "name": "如何进行开关机定时设置",
       "des": "",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/5815c6eb539c984fa27ca5f04a402510.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/5815c6eb539c984fa27ca5f04a402510.mp4",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/0e97b9cc96bd33439ffff74ac1e409f4.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/0e97b9cc96bd33439ffff74ac1e409f4.mp4",
       "type": "video/mp4"
     }, {
       "order": 6,
-      "name": "超级慢动作稳定的视频跑步者的脚在沙滩河边",
+      "name": "如何新建机构与分配点数",
       "des": "",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/3e026fdb953ba428fbe1d95612f24ed6.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/3e026fdb953ba428fbe1d95612f24ed6.mp4",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/f275ae28d276a7e9fde5f5f1b263c59d.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/f275ae28d276a7e9fde5f5f1b263c59d.mp4",
       "type": "video/mp4"
     }, {
       "order": 7,
-      "name": "WeChat_20200108173024",
+      "name": "如何制作交互节目",
       "des": "",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/d75f5a2d6ab6a0644f92d1ac7a32cd4a.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/d75f5a2d6ab6a0644f92d1ac7a32cd4a.mp4",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/8d44c31277522aac9574abd6fe787559.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/8d44c31277522aac9574abd6fe787559.mp4",
       "type": "video/mp4"
     }, {
       "order": 8,
-      "name": "1_01",
+      "name": "如何制作交互节目（原始）",
       "des": "",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/42efd92dea7d6580148a6c4d6326df79.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/42efd92dea7d6580148a6c4d6326df79.mp4",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/dd6a4787466617b7d446652a209cdef5.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/dd6a4787466617b7d446652a209cdef5.mp4",
       "type": "video/mp4"
     }, {
       "order": 9,
-      "name": "video_01 - 副本 (4)(1)",
+      "name": "删除和格式化终端上的节目",
       "des": "",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/85a60df0f9d857cf7afdf373984e3364.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/85a60df0f9d857cf7afdf373984e3364.mp4",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/07bb61b84876a15ad469d5ad318beda1.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/07bb61b84876a15ad469d5ad318beda1.mp4",
       "type": "video/mp4"
     }, {
       "order": 10,
-      "name": "video_03",
+      "name": "后台机构管理与用户管理的关系",
       "des": "",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/fb26dfd8468ef1c17ad08b681cb38e7b.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/fb26dfd8468ef1c17ad08b681cb38e7b.mp4",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/1fcf2ec34786d0588e0e6d3063993aea.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/1fcf2ec34786d0588e0e6d3063993aea.mp4",
       "type": "video/mp4"
     }, {
       "order": 11,
-      "name": "3e803528c3ae44f5823df241e9095285",
+      "name": "播放计划",
       "des": "",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/3e803528c3ae44f5823df241e9095285.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/3e803528c3ae44f5823df241e9095285.mp4",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/5edeae2e33f9384e7a7a776c5a5eff24.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/5edeae2e33f9384e7a7a776c5a5eff24.mp4",
       "type": "video/mp4"
     }, {
       "order": 12,
-      "name": "更新授权点数后如何查看点数变化",
-      "des": "该视频教您更新授权点数后如何查看点数变化",
-      "poster": "//lango-tech.cn/apm-web/apm_file/video_thumbnail/6b43b3fc55c6ef61d7fa8c5563a9e8f8.jpg",
-      "src": "//lango-tech.cn/apm-web/apm_file/program_video_path/6b43b3fc55c6ef61d7fa8c5563a9e8f8.mp4",
+      "name": "创建域名",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/e02eb8ed014e72c634472805eff770fa.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/e02eb8ed014e72c634472805eff770fa.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 13,
+      "name": "个人信息",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/68ea83fa4e253271df8d647e598e3fca.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/68ea83fa4e253271df8d647e598e3fca.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 14,
+      "name": "节目管理",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/2473bab78eee74a7ce7e2fd53a5573c6.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/2473bab78eee74a7ce7e2fd53a5573c6.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 15,
+      "name": "节目制作",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/2ef55b36d1e30b22e34f260e53cfad5c.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/2ef55b36d1e30b22e34f260e53cfad5c.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 16,
+      "name": "机构信息",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/4b8cfbf1824650d82a817e24c123c5ae.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/4b8cfbf1824650d82a817e24c123c5ae.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 17,
+      "name": "开通代理",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/db5626df862701776f988cef4798fdc2.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/db5626df862701776f988cef4798fdc2.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 18,
+      "name": "模板素材",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/75eb97e1d0a79e4358c47f56db0b5810.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/75eb97e1d0a79e4358c47f56db0b5810.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 19,
+      "name": "内容审核",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/47c76adc9398139edae5d3b4bc541e23.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/47c76adc9398139edae5d3b4bc541e23.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 20,
+      "name": "首页",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/96574f15bd7caebe6b00e9ed05fd1f68.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/96574f15bd7caebe6b00e9ed05fd1f68.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 21,
+      "name": "素材管理",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/2f6999798dbd7be90e9235d472dbcbdb.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/2f6999798dbd7be90e9235d472dbcbdb.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 22,
+      "name": "系统设置",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/91558c9ea5e67f20b1ca8bbf3ac31278.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/91558c9ea5e67f20b1ca8bbf3ac31278.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 23,
+      "name": "消息管理",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/9c8e5061607be1cbd39d0a6f65f0389a.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/9c8e5061607be1cbd39d0a6f65f0389a.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 24,
+      "name": "消息通知",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/5d461263a1077f57ad637eb00f68bec9.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/5d461263a1077f57ad637eb00f68bec9.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 25,
+      "name": "用户管理",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/179c867bb86acab8631b3d07e4299246.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/179c867bb86acab8631b3d07e4299246.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 26,
+      "name": "用户登录",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/57cc2abd6e3c2c2262b78807120459a3.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/57cc2abd6e3c2c2262b78807120459a3.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 27,
+      "name": "消息制作",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/c6e19cd592475e982fec2986fed2de41.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/c6e19cd592475e982fec2986fed2de41.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 28,
+      "name": "用户注册",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/cca2713c9e6a7c2bec9400f37a6b89a6.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/cca2713c9e6a7c2bec9400f37a6b89a6.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 29,
+      "name": "终端监控",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/a02bb263410050e32159f47d8915a6a2.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/a02bb263410050e32159f47d8915a6a2.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 30,
+      "name": "终端设置",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/6d33b43ae8fec9d91ab8577ec6ae6b5d.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/6d33b43ae8fec9d91ab8577ec6ae6b5d.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 31,
+      "name": "终端信息",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/4e8dcfa1373fed5f82b5a26341dcc814.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/4e8dcfa1373fed5f82b5a26341dcc814.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 32,
+      "name": "忘记密码",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/22d36819d6ba70a4e24840cde450a3a6.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/22d36819d6ba70a4e24840cde450a3a6.mp4",
+      "type": "video/mp4"
+    }, {
+      "order": 33,
+      "name": "机构管理",
+      "des": "",
+      "poster": "http://lango-tech.cn/apm-web/apm_file/video_thumbnail/a988346d7ad719f2ced004123a403ca5.jpg",
+      "src": "http://lango-tech.cn/apm-web/apm_file/program_video_path/a988346d7ad719f2ced004123a403ca5.mp4",
       "type": "video/mp4"
     }]
   },
